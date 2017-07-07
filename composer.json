@@ -4,9 +4,9 @@
     "type": "library",
     
     "repositories": [
-		{ "type": "composer", "url": "https://my-dev.parkeon.com/satis" },
-		{ "type": "composer", "url": "https://my-dev.parkeon.com/neuralys" },
-		{ "type": "composer", "url": "https://my-dev.parkeon.com/packagist" },
+		{ "type": "composer", "url": "https://pkg-my.parkeon.com/satis" },
+		{ "type": "composer", "url": "https://pkg-my.parkeon.com/neuralys" },
+		{ "type": "composer", "url": "https://pkg-my.parkeon.com/packagist" },
 		{ "packagist": false }    
     ]
 }
